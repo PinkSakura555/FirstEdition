@@ -1,2 +1,0 @@
-# FirstEdition
-First Attempt
